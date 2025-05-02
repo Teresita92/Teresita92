@@ -1,23 +1,26 @@
 ## Hi 👋 I'm Flor
 A passionate developer, digital designer and creator of intuitive experiences from Buenos Aires, Argentina.
 
-💻 Actualmente desarrollo proyectos en:
+### 💻 Actualmente desarrollo proyectos en:
 - C# con Windows Forms
 - Diseño web con HTML, CSS y Tailwind
 - Creación de porfolios y páginas e-commerce en React
 
-🧠 Estoy aprendiendo:
+
+### 🧠 Estoy aprendiendo:
 - Fundamentos avanzados de programación orientada a objetos
 - Diseño de software
 - Modelado de bases de datos
 - Probabilidad y estadística aplicada en Python
 
-⚡ Factos:
+
+### ⚡ Factos:
 - Amante del mate 🧉 
 - Me encanta andar en bici 🚴🏻‍♂️ y últimamente escuchar música japonesa de los 80' 🎧
 - Sueño con trabajar remoto viajando por el mundo 🌍
 
-📫 ¿Querés charlar o colaborar?
+
+### 📫 ¿Querés charlar o colaborar?
 Podés encontrarme en:
 - [Instagram](https://instagram.com/tere.dev)
 - [LinkedIn](https://linkedin.com/in/florencia-teresita-sanchez/)
